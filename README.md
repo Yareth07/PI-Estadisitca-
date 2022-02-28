@@ -1,2 +1,2 @@
-# PI-Estadisitca-
-Asignatura Procesamiento de Información Estadisitca, BENV, plan 2012 Educación Primaria 
+# PI-Estadistica-
+Asignatura Procesamiento de Información Estadistica, BENV, plan 2012 Educación Primaria 
